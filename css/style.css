@@ -1,0 +1,122 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wrapper {
+    display: flex;
+    align-content:center;
+    background-image: url(../images/0.jpg);
+    justify-content: center;
+}
+
+.text_1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-weight: 650;
+    color: #8B0000;
+    text-align: center;
+}
+.car {
+    font-size: 45px;
+    font-weight: 550;
+    color: #8B0000;
+    text-align: center;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+}
+.content_1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+.dog {
+    width: 850px;
+    height: 500px;
+}
+.content_2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.content_3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+.dog_1 {
+    width: 850px;
+    height: 500px;
+}
+.content_4 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+.zag_1 {
+    font-size: 55px;
+    font-weight: 650;
+    color: #8B0000;
+    text-align: center;
+}
+.content_5 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+.content_6 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.content_7 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.dog_2 {
+    width: 850px;
+    height: 500px;
+}
+.content_8 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.content_9 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.content_10 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.dog_3 {
+    width: 850px;
+    height: 500px;
+}
+.content_11 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    background-color:#c5e2e5; 
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
